@@ -1,0 +1,8 @@
+.td:hover{
+    background-color: silver;
+    cursor: pointer;
+}
+.view p{
+    font-size: 20px;
+
+}
