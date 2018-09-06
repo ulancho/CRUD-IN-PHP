@@ -22,6 +22,6 @@ Utils - тут у меня класс пагинации.
 
   
 Использовал небольшие библиотеки: 
-Bootsrap
-Jquery
-jquery.maskedinput.min.js - для ввода даты.
+-Bootsrap
+-Jquery
+-jquery.maskedinput.min.js - для ввода даты.
