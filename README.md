@@ -19,3 +19,9 @@ Web-сервер: Apache 2.4;
    -js
 
 Utils - тут у меня класс пагинации.
+
+  
+Использовал небольшие библиотеки: 
+Bootsrap
+Jquery
+jquery.maskedinput.min.js - для ввода даты.
